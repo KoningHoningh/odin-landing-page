@@ -23,16 +23,15 @@ body {
     font-size: 24px;
     color: #F9FAF8;
     font-weight:bold;
-    padding-left: 300px;
+    margin-left: 300px;
 }
 
 .header-links {
     display: flex;
     justify-content: center;
-    gap: 8px;
+    gap: 16px;
     font-size: 18px;
-    padding-right: 300px;
-
+    margin-right: 300px;
 }
 
 
@@ -41,6 +40,7 @@ body {
     color: white;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     gap: 20px;
     background-color: #1F2937;
     width: 100vw;
@@ -51,7 +51,7 @@ body {
     width: 350px;
     display: flex;
     flex-direction:column;
-    padding-left: 300px;
+    margin-left: 300px;
 }
 
 .title-head {
@@ -68,7 +68,8 @@ body {
     height: 250px;
     background-color: green;
     text-align: center;
-    margin: auto;
+    line-height: 250px;
+    margin-right: 300px;
 }
 
 

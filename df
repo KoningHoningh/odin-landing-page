@@ -1,0 +1,36 @@
+[33mcommit 839776ff2d3cdcdc6b8aaaf0c527a919d8306088[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: KoningHoningh <eelcohoningh@hotmail.com>
+Date:   Mon Mar 28 17:02:45 2022 +0200
+
+    Added a lot of css.
+
+[33mcommit 0aec4f456f3dc2c11aefbc5b2a00cf37dfa18dd0[m
+Author: KoningHoningh <eelcohoningh@hotmail.com>
+Date:   Mon Mar 28 12:07:30 2022 +0200
+
+    Added some mroe css.
+
+[33mcommit cff369dd47b45510eb8a27d4f93bfd38c725be74[m
+Author: KoningHoningh <eelcohoningh@hotmail.com>
+Date:   Mon Mar 28 11:50:56 2022 +0200
+
+    Added more div's and gave them classes. Also changed the temporary background to the body (which is now on the body, instead of a separate div) to green. Started adding some text. -html
+    removed all old classes and changed the .body to body. -css
+
+[33mcommit 155f7e708642113cee19b142aeccdfdc6a754c95[m
+Author: KoningHoningh <eelcohoningh@hotmail.com>
+Date:   Sat Mar 26 19:05:51 2022 +0100
+
+    Filled in some colors for the 6 levels of div in Styles.css. Started adding levels of .div for some of the boxes.
+
+[33mcommit 8c27e084e43ef59e721dcf5c46f8cbc52b001512[m
+Author: KoningHoningh <eelcohoningh@hotmail.com>
+Date:   Sat Mar 26 18:15:18 2022 +0100
+
+    Added Styles.css and index.html
+
+[33mcommit db7865044b76887a1d98f0a2ef8d073a7de6e8a1[m
+Author: KoningHoningh <79023667+KoningHoningh@users.noreply.github.com>
+Date:   Sat Mar 26 18:06:02 2022 +0100
+
+    Initial commit
