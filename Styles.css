@@ -5,6 +5,8 @@ body {
     align-items: center;
     margin:0;
     font-family: Arial, Helvetica, sans-serif;
+    width: 100vw;
+    background-color: whitesmoke;
 }
 
 .header {
@@ -40,8 +42,8 @@ body {
     justify-content: center;
     gap: 80px;
     background-color: #1F2937;
-    width: 100%;
     padding-bottom: 150px;
+    width: 100%;
 }
 
 .title-text {
@@ -87,13 +89,15 @@ body {
 .main-info {
     display: flex;
     flex-direction: row;
+    gap: 50px;
 }
 
 .info {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin: 10px;
+    margin-bottom: 100px;
+    width:150px;
 }
 
 .info-image {
@@ -101,23 +105,22 @@ body {
     width: 150px;
     border: 5px solid;
     border-color: #3882F6;
-    border-radius: 10px;
+    border-radius: 25px;
     margin-bottom: 20px;
 }
 
 .info-text {
-    width: 150px;
     text-align:center;
+    font-size: 20px;
 }
 
 .inspirational-quote {
     background-color: #E5E7EB;
     width: 100%;
     display: flex;
-    padding: 200px;
     flex-direction: column;
     align-items: center;
-
+    padding: 120px 0;
 }
 
 .quote {
@@ -125,7 +128,8 @@ body {
     font-size:36px;
     color: #1F2937;
     font-style: italic;
-    width: 70%;
+    width: 20%;
+
 }
 .quote-author {
     width: 800px;
@@ -138,8 +142,14 @@ body {
     color: whitesmoke;
     background-color:#3882F6;
     display: flex;
+    padding: 50px 100px;
+    border-radius: 10px;
+    margin: 100px;
+    gap: 150px;
 }
-
+.sign-up-title {
+    font-size: 24px;
+}
 .sign-up-text {
 }
 .sign-up-button {
@@ -151,7 +161,7 @@ body {
     background-color: #1F2937; 
     width: 100%;
     text-align:center;
-    padding: 40px;
+    padding: 50px 0;
 }
 
 .title-button, .sign-up-button
